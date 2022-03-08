@@ -1,2 +1,2 @@
 # Hola-Dating-Application
-Made a Dating Application UI and currently working on the functionality part and API integration .
+Made a Dating Application UI Clone in Flutter along with Firebase Authentication.
